@@ -109,7 +109,7 @@ const login = async (req, res) => {
       message: 'Internal server error'
     });
   }
-};  
+};
 
 module.exports = {
   signup,
